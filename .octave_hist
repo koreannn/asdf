@@ -1,0 +1,65 @@
+help max
+y= max(3,7)
+a= [1 : 1 : 5 ; 1 : 1 : 5]
+# Octave 6.4.0, Thu May 19 17:55:22 2022 GMT <unknown@DESKTOP-P6LA9KB>
+plot3([0 1 0.6] , [1 0 1], [0 1 1])
+plot3([0 1 0.6] , [1 0 1], [0 1 1])
+# Octave 6.4.0, Fri May 20 11:09:47 2022 GMT <unknown@DESKTOP-P6LA9KB>
+tt
+tt
+tt
+tt
+# Octave 6.4.0, Fri May 20 11:42:18 2022 GMT <unknown@DESKTOP-P6LA9KB>
+x=[1 2 3]4
+x=[1 2 3]
+# Octave 6.4.0, Sat May 21 23:17:22 2022 GMT <unknown@DESKTOP-P6LA9KB>
+x=3;
+fprintf("%d",x)
+d
+x=[1 2 3 4];
+fprintf("%d",x)
+fprintf("%d %d\n",x)
+fprintf("%d %d %d\n",x)
+fprintf("%d %d %d %d\n",x)
+A=[1 2 3;4 5 6];
+fprintf("%d\n",A)
+clear
+clear all
+x=[1 2 3 4];
+fprintf("%d\n",x)
+clear all
+myf1=@(x) x.^3;
+myf2=inline('x.^3','x');
+x=-3:0.01:3;
+subplot(1,2,1);
+# Octave 6.4.0, Sat May 28 16:33:55 2022 GMT <unknown@DESKTOP-P6LA9KB>
+# Octave 6.4.0, Tue Sep 06 23:44:29 2022 GMT <unknown@DESKTOP-P6LA9KB>
+kk
+x=1:7
+y=[1,3,5,2,6,8,9]
+bar(x,y)
+# Octave 6.4.0, Wed Sep 07 21:06:12 2022 GMT <unknown@DESKTOP-P6LA9KB>
+bb
+bb
+bb
+bb
+bb
+bb
+bb
+bb
+bb
+bb
+bb
+t
+it
+bb
+t
+it
+bb
+# Octave 6.4.0, Thu Sep 15 14:17:22 2022 GMT <unknown@DESKTOP-P6LA9KB>
+t=0:0.1:1
+y=sin(t)
+plot(t,y)
+# Octave 6.4.0, Sun Sep 18 13:29:37 2022 GMT <unknown@DESKTOP-P6LA9KB>
+# Octave 6.4.0, Mon Nov 07 10:39:41 2022 GMT <unknown@DESKTOP-P6LA9KB>
+# Octave 6.4.0, Mon Nov 14 10:47:10 2022 GMT <unknown@DESKTOP-P6LA9KB>
